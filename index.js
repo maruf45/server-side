@@ -5,6 +5,10 @@ const port = 5000;
 const cors = require("cors");
 app.use(cors());
 
+// require blogs api
+const blogs = require('blogs.json');
+
+
 app.get("/", (req, res) => {
   res.send(`server is running on ${port} port`);
 });
