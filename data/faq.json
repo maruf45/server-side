@@ -1,0 +1,27 @@
+[
+  {
+    "id": "635a956b65ce2e077fde81c3",
+    "question": "Who is this course for?",
+    "answer": "Who wants to become a web developer. For those who want to learn web development from scratch and then get a job in a software company as a web developer. For those who know nothing about programming or web development. 😀"
+  },
+  {
+    "id": "635a956b87d112e3555eae0f",
+    "question": "What prior experience do I need to have before starting this course?",
+    "answer": "Since we are teaching from scratch. So you don't need to know anything beforehand. But if you have time."
+  },
+  {
+    "id": "635a956b800e52db5d35384d",
+    "question": "What is in the course?",
+    "answer": "You can understand that by looking at the course curriculum. But in short, this course has everything you need to become a serious web developer these days. In short, from HTML, CSS to bootstrap, JavaScript, Git, ES6, REST API, server, JSON are there. Along with that, there is the framework that currently has the most jobs, React, a system for making complete websites with advanced React"
+  },
+  {
+    "id": "635a956bec534f446cc0f9c7",
+    "question": "How long will it take to complete this course?",
+    "answer": "If you watch videos for 1 to 1.5 hours every day, along with extra 4 to 6 hours of practice, it will take you about 5 months. However, sometimes extra time should be reserved for homework and take away projects. Must bring hard work mentality. There are no cheats or shortcuts."
+  },
+  {
+    "id": "635a956bd9cdb42d8acfb494",
+    "question": "What things do I need?",
+    "answer": "First, it takes dedicated time. Mast 6-8 hours per day. 8-10 hours if possible (If you can't give time. If you don't want to do hard work, there will be no benefit in enrolling in the course.) Secondly you will need a laptop or a computer (where software like node, Visual Studio Code can be installed) and thirdly you will need minimum 2 - 10 Mbps internet. Broadband is preferred so that the course videos can be viewed well."
+  }
+]

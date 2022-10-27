@@ -11,12 +11,17 @@ const blogs = require("./data/blogs.json");
 // require categories api
 const categories = require("./data/categories.json");
 const course = require("./data/course.json");
+const faq = require('./data/faq.json')
 app.get("/", (req, res) => {
   res.send(`server is running on ${port} port`);
 });
 
 app.get("/blogs", (req, res) => {
   res.send(blogs);
+});
+
+app.get("/faq", (req, res) => {
+  res.send(faq);
 });
 
 app.get("/categories", (req, res) => {
