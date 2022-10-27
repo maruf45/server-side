@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "categories": "UI/UX"
+    },
+    {
+        "id": "2",
+        "categories": "Navbar"
+    },
+    {
+        "id": "3",
+        "categories": "Footer"
+    },
+    {
+        "id": "4",
+        "categories": "Animation"
+    },
+    {
+        "id": "5",
+        "categories": "Buttons"
+    },
+    {
+        "id": "6",
+        "categories": "Cards"
+    },
+    {
+        "id": "7",
+        "categories": "All Categories"
+    }
+]
